@@ -1,3 +1,13 @@
+<?php
+
+/*
+	vBulletin auth/logins and visit pages script
+
+	https://github.com/i-like-a-boss/vbulletin-login-curl
+*/
+
+?>
+
 <html>
 
 <head>
@@ -35,7 +45,7 @@
     	$ch = ""; // reset value
     	$ch = curl_init();
 	    curl_setopt ($ch, CURLOPT_URL, $url) ; // target site
-	    curl_setopt ($ch, CURLOPT_COOKIEFILE, "cookie-" . URL_FORUM . ".txt"); 
+	    curl_setopt ($ch, CURLOPT_COOKIEFILE, "cookie-" . URL_FORUM . ".txt");
 	    curl_setopt ($ch, CURLOPT_COOKIEJAR, "cookie-" . URL_FORUM . ".txt");
 	    curl_setopt ($ch, CURLOPT_REFERER, URL_HTTP);
 	    curl_setopt ($ch, CURLOPT_TIMEOUT, CURL_TIMEOUT); // timeout
@@ -81,7 +91,7 @@
 		"forumdisplay.php?f=300", // 1st param
 
 		"" // 2nd params is empty!
-    ); 
+    );
 
 
     // var_dump($webpage['FILE']); // debug

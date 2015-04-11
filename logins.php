@@ -3,7 +3,7 @@
 /*
 	vBulletin auth/logins and visit pages script
 
-	https://github.com/i-like-a-boss/vbulletin-login-curl
+	https://github.com/i-like-a-boss/vbulletin-auth-login-visit-pages
 */
 
 ?>

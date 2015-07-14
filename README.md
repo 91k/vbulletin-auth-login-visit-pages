@@ -1,6 +1,6 @@
 ## vBulletin auth/logins and visit pages script
 
-[PHP script](https://github.com/i-like-a-boss/vbulletin-auth-login-visit-pages) authorisation (or logins) and visit pages for [vBulletin](http://en.wikipedia.org/wiki/VBulletin) forums
+[PHP script](https://github.com/roman-kosov/vbulletin-auth-login-visit-pages) authorisation (or logins) and visit pages for [vBulletin](http://en.wikipedia.org/wiki/VBulletin) forums
 
 
 
@@ -14,3 +14,5 @@
 
 
 ### Have for fun!
+
+www.roman-kosov.ru

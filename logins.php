@@ -3,7 +3,9 @@
 /*
 	vBulletin auth/logins and visit pages script
 
-	https://github.com/i-like-a-boss/vbulletin-auth-login-visit-pages
+	https://github.com/roman-kosov/vbulletin-auth-login-visit-pages
+
+	www.roman-kosov.ru
 */
 
 ?>
